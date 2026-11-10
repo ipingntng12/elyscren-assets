@@ -1,0 +1,13 @@
+{
+  "name": "elyscren",
+  "symbol": "elyscren",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/ipingntng12/elyscren-assets/f9b240b149d435c938cf36d3df3bcec6477605a3/logo.webp",
+  "external_url": "https://elyscreener.com",
+  "website": "https://elyscreener.com",
+  "twitter": "https://x.com/elyscreener?s=11",
+  "extensions": {
+    "website": "https://elyscreener.com",
+    "twitter": "https://x.com/elyscreener?s=11"
+  }
+}
